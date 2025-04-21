@@ -1,7 +1,7 @@
 # portfolio
 Criando portfolio
 
-<a href="https://github.com/rodrigoafonsobarboza/portfolio/">Visualizar meu repositório</a>
+<a href="https://rodrigoafonsobarboza.github.io/portfolio/">Visualizar meu repositório</a>
 
 ##
 
